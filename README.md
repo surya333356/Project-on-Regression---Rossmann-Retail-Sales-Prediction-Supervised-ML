@@ -19,7 +19,7 @@ By applying above algorthim we find accuracy of 98% by Xgboost.
 
 The problem statement for this project is to develop a machine learning regression model that accurately predicts the daily sales for up to six weeks in advance for 1,115 Rossmann stores across Europe. The model should take into account various factors that influence store sales, such as promotions, competition, holidays, seasonality, and locality. The ultimate goal is to help Rossmann store managers make informed decisions regarding inventory management, staffing, and promotional strategies, leading to increased sales and profitability for the business.
 
-# Data Description
+## Data Description
 
 Rossmann Stores Data.csv - historical data including Sales
 
